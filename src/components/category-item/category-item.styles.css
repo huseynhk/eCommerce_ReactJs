@@ -45,6 +45,7 @@
   background-color: white;
   opacity: 0.7;
   position: absolute;
+  border-radius: 1rem;
 }
 .category-container .category-body-container h2 {
   font-weight: bold;
