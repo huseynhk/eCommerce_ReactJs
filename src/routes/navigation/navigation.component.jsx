@@ -15,8 +15,11 @@ const Navigation = () => {
 
         <div className="nav-links-container">
           <Link className="nav-link" to="shop">
-            {" "}
-            Shop{" "}
+            Shop
+          </Link>
+
+          <Link className="nav-link" to="signIn">
+            Sign-In
           </Link>
         </div>
 
